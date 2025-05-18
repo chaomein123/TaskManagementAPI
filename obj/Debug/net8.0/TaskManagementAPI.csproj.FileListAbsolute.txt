@@ -146,3 +146,4 @@ D:\Assessments\Zimozi\zimozi\TaskManagementAPI\obj\Debug\net8.0\refint\TaskManag
 D:\Assessments\Zimozi\zimozi\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.pdb
 D:\Assessments\Zimozi\zimozi\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.genruntimeconfig.cache
 D:\Assessments\Zimozi\zimozi\TaskManagementAPI\obj\Debug\net8.0\ref\TaskManagementAPI.dll
+D:\Assessments\Zimozi\Zimozi\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.sourcelink.json

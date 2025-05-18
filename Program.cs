@@ -43,21 +43,45 @@ using (var scope = app.Services.CreateScope())
     var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
 
     dbContext.Tasks.AddRange(
-        new TaskItem
-        {
-            Id = 1,
-            Title = "Task 1",
-            Description = "Description of Task 1",
-            AssignedToUserId = "user1",
-            Status = "Pending"
+        new TaskItem 
+        { 
+            Id = 1, 
+            Title = "Fix Bug", 
+            Description = "Fix login issue", 
+            AssignedToUserId = "user1", 
+            Status = "Pending" 
         },
-        new TaskItem
-        {
-            Id = 2,
-            Title = "Task 2",
-            Description = "Description of Task 2",
-            AssignedToUserId = "user2",
-            Status = "Completed"
+        new TaskItem 
+        { 
+            Id = 2, 
+            Title = "Add Feature", 
+            Description = "Add search functionality", 
+            AssignedToUserId = "user2", 
+            Status = "In Progress" 
+        },
+        new TaskItem 
+        { 
+            Id = 3, 
+            Title = "Write Documentation", 
+            Description = "Document API endpoints", 
+            AssignedToUserId = "user1", 
+            Status = "Completed" 
+        },
+        new TaskItem 
+        { 
+            Id = 4, 
+            Title = "Code Review", 
+            Description = "Review team pull requests", 
+            AssignedToUserId = "user3", 
+            Status = "Pending" 
+        },
+        new TaskItem 
+        { 
+            Id = 5, 
+            Title = "Deploy to Production", 
+            Description = "Deploy the latest release", 
+            AssignedToUserId = "user2", 
+            Status = "Pending" 
         }
     );
 

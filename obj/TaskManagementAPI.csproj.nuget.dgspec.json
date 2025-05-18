@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Assessments\\Zimozi\\zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj": {}
+    "D:\\Assessments\\Zimozi\\Zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj": {}
   },
   "projects": {
-    "D:\\Assessments\\Zimozi\\zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj": {
+    "D:\\Assessments\\Zimozi\\Zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Assessments\\Zimozi\\zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj",
+        "projectUniqueName": "D:\\Assessments\\Zimozi\\Zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj",
         "projectName": "TaskManagementAPI",
-        "projectPath": "D:\\Assessments\\Zimozi\\zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj",
+        "projectPath": "D:\\Assessments\\Zimozi\\Zimozi\\TaskManagementAPI\\TaskManagementAPI.csproj",
         "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "D:\\Assessments\\Zimozi\\zimozi\\TaskManagementAPI\\obj\\",
+        "outputPath": "D:\\Assessments\\Zimozi\\Zimozi\\TaskManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config"
